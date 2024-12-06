@@ -23,3 +23,9 @@ Repositori ini berisi proyek-proyek portofolio yang menunjukkan kemampuan saya d
 
 ## File Tambahan
 - **Portofolio Data Analyst.pdf:** Dokumen PDF yang merangkum pengalaman, proyek, dan keterampilan yang relevan sebagai seorang Data Analyst.
+
+
+## Tentang Saya
+Saya adalah lulusan Teknik Komputer dengan keahlian di bidang analisis data, visualisasi, dan pengolahan dataset menggunakan Python dan berbagai tools seperti Tableau dan Power BI. Saya antusias untuk menggunakan data dalam menyelesaikan masalah nyata dan memberikan solusi berbasis data.
+
+📧 Email: mochamadrizqii1@gmail.com
