@@ -5,7 +5,7 @@ Repositori ini berisi proyek-proyek portofolio yang menunjukkan kemampuan saya d
 
 ## Daftar Proyek
 
-### 1. **Superstore Analysis**
+###  **Superstore Analysis**
 - **Deskripsi:** Analisis data penjualan untuk mengidentifikasi tren produk, kategori, dan wilayah dengan performa terbaik.
 - **Tools:** Python, Pandas, Matplotlib, Seaborn
 - **Insight Utama:**
