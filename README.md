@@ -13,14 +13,6 @@ Repositori ini berisi proyek-proyek portofolio yang menunjukkan kemampuan saya d
   - Kategori produk tertentu memberikan kontribusi terbesar pada pendapatan.
 - **Notebook:** [`superstoree.ipynb`](./superstoree.ipynb)
 
-### 2. **Sepeda Analysis**
-- **Deskripsi:** Studi mengenai data penjualan sepeda untuk mengidentifikasi pola pembelian berdasarkan waktu dan kategori pelanggan.
-- **Tools:** Python, Pandas, Seaborn
-- **Insight Utama:**
-  - Hari tertentu dalam seminggu menunjukkan volume pembelian yang lebih tinggi.
-  - Customer segmentation membantu memahami pola pembelian lebih mendalam.
-- **Notebook:** [`speda.ipynb`](./speda.ipynb)
-
 ## File Tambahan
 - **Portofolio Data Analyst.pdf:** Dokumen PDF yang merangkum pengalaman, proyek, dan keterampilan yang relevan sebagai seorang Data Analyst.
 
